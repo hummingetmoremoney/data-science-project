@@ -1,0 +1,818 @@
+Entity,Code,Year,Share of new cars that are electric
+Australia,AUS,2011,0.0061
+Australia,AUS,2012,0.029
+Australia,AUS,2013,0.033
+Australia,AUS,2014,0.15
+Australia,AUS,2015,0.19
+Australia,AUS,2016,0.15
+Australia,AUS,2017,0.25
+Australia,AUS,2018,0.42
+Australia,AUS,2019,1.2
+Australia,AUS,2020,0.98
+Australia,AUS,2021,2.7
+Australia,AUS,2022,5.1
+Australia,AUS,2023,11
+Australia,AUS,2024,12
+Australia,AUS,2025,15
+Austria,AUT,2013,0.2
+Austria,AUT,2014,0.57
+Austria,AUT,2015,0.9
+Austria,AUT,2016,1.5
+Austria,AUT,2017,2
+Austria,AUT,2018,2.6
+Austria,AUT,2019,3.5
+Austria,AUT,2020,9.5
+Austria,AUT,2021,20
+Austria,AUT,2022,22
+Austria,AUT,2023,27
+Austria,AUT,2024,24
+Austria,AUT,2025,31
+Belgium,BEL,2010,0.01
+Belgium,BEL,2011,0.052
+Belgium,BEL,2012,0.19
+Belgium,BEL,2013,0.11
+Belgium,BEL,2014,0.41
+Belgium,BEL,2015,0.76
+Belgium,BEL,2016,1.7
+Belgium,BEL,2017,2.6
+Belgium,BEL,2018,2.4
+Belgium,BEL,2019,3.2
+Belgium,BEL,2020,11
+Belgium,BEL,2021,18
+Belgium,BEL,2022,26
+Belgium,BEL,2023,41
+Belgium,BEL,2024,43
+Belgium,BEL,2025,44
+Brazil,BRA,2010,0.00035
+Brazil,BRA,2011,0.00028
+Brazil,BRA,2012,0.0013
+Brazil,BRA,2013,0.0024
+Brazil,BRA,2014,0.0022
+Brazil,BRA,2015,0.0042
+Brazil,BRA,2016,0.011
+Brazil,BRA,2017,0.023
+Brazil,BRA,2018,0.02
+Brazil,BRA,2019,0.084
+Brazil,BRA,2020,0.16
+Brazil,BRA,2021,0.92
+Brazil,BRA,2022,1.2
+Brazil,BRA,2023,3
+Brazil,BRA,2024,6.4
+Brazil,BRA,2025,9
+Bulgaria,BGR,2015,0.09
+Bulgaria,BGR,2016,0.05
+Bulgaria,BGR,2017,0.34
+Bulgaria,BGR,2018,0.64
+Bulgaria,BGR,2019,0.67
+Bulgaria,BGR,2021,2.2
+Bulgaria,BGR,2022,4
+Bulgaria,BGR,2023,5.8
+Bulgaria,BGR,2024,5
+Bulgaria,BGR,2025,6
+Cambodia,KHM,2021,0.059
+Cambodia,KHM,2022,0.45
+Cambodia,KHM,2023,0.67
+Cambodia,KHM,2024,2.9
+Cambodia,KHM,2025,5
+Canada,CAN,2011,0.041
+Canada,CAN,2012,0.14
+Canada,CAN,2013,0.22
+Canada,CAN,2014,0.35
+Canada,CAN,2015,0.45
+Canada,CAN,2016,0.76
+Canada,CAN,2017,1
+Canada,CAN,2018,2.8
+Canada,CAN,2019,3.4
+Canada,CAN,2020,4.2
+Canada,CAN,2021,6.4
+Canada,CAN,2022,9.5
+Canada,CAN,2023,13
+Canada,CAN,2024,17
+Canada,CAN,2025,11
+Chile,CHL,2011,0.0024
+Chile,CHL,2012,0.002
+Chile,CHL,2013,0.0019
+Chile,CHL,2014,0.0079
+Chile,CHL,2015,0.019
+Chile,CHL,2016,0.015
+Chile,CHL,2017,0.064
+Chile,CHL,2018,0.08
+Chile,CHL,2019,0.14
+Chile,CHL,2020,0.2
+Chile,CHL,2021,0.29
+Chile,CHL,2022,0.6
+Chile,CHL,2023,0.75
+Chile,CHL,2024,2.1
+Chile,CHL,2025,4
+China,CHN,2010,0.01
+China,CHN,2011,0.034
+China,CHN,2012,0.073
+China,CHN,2013,0.096
+China,CHN,2014,0.41
+China,CHN,2015,1.1
+China,CHN,2016,1.5
+China,CHN,2017,2.4
+China,CHN,2018,4.7
+China,CHN,2019,5
+China,CHN,2020,5.7
+China,CHN,2021,16
+China,CHN,2022,29
+China,CHN,2023,38
+China,CHN,2024,48
+China,CHN,2025,53
+Colombia,COL,2011,0.00042
+Colombia,COL,2012,0.011
+Colombia,COL,2013,0.0096
+Colombia,COL,2014,0.01
+Colombia,COL,2015,0.017
+Colombia,COL,2016,0.025
+Colombia,COL,2017,0.074
+Colombia,COL,2018,0.26
+Colombia,COL,2019,0.56
+Colombia,COL,2020,0.77
+Colombia,COL,2021,1.4
+Colombia,COL,2022,2.2
+Colombia,COL,2023,3.6
+Colombia,COL,2024,7.6
+Colombia,COL,2025,10
+Costa Rica,CRI,2015,0.029
+Costa Rica,CRI,2016,0.22
+Costa Rica,CRI,2017,0.082
+Costa Rica,CRI,2018,0.84
+Costa Rica,CRI,2019,1.2
+Costa Rica,CRI,2020,2.5
+Costa Rica,CRI,2021,3.6
+Costa Rica,CRI,2022,7.6
+Costa Rica,CRI,2023,10
+Costa Rica,CRI,2024,15
+Costa Rica,CRI,2025,17
+Croatia,HRV,2019,0.41
+Croatia,HRV,2020,1.9
+Croatia,HRV,2021,3.8
+Croatia,HRV,2022,5
+Croatia,HRV,2023,4.6
+Croatia,HRV,2024,4.9
+Croatia,HRV,2025,5.4
+Cyprus,CYP,2019,0.19
+Cyprus,CYP,2020,1.4
+Cyprus,CYP,2021,1.7
+Cyprus,CYP,2022,5.4
+Cyprus,CYP,2023,8.8
+Cyprus,CYP,2024,12
+Cyprus,CYP,2025,15
+Czechia,CZE,2015,0.13
+Czechia,CZE,2016,0.08
+Czechia,CZE,2017,0.14
+Czechia,CZE,2018,0.38
+Czechia,CZE,2019,0.49
+Czechia,CZE,2020,2.5
+Czechia,CZE,2021,3.1
+Czechia,CZE,2022,3.9
+Czechia,CZE,2023,5.4
+Czechia,CZE,2024,6.8
+Czechia,CZE,2025,10
+Denmark,DNK,2011,0.25
+Denmark,DNK,2012,0.29
+Denmark,DNK,2013,0.28
+Denmark,DNK,2014,0.91
+Denmark,DNK,2015,2.3
+Denmark,DNK,2016,0.85
+Denmark,DNK,2017,0.6
+Denmark,DNK,2018,2.1
+Denmark,DNK,2019,4.2
+Denmark,DNK,2020,16
+Denmark,DNK,2021,35
+Denmark,DNK,2022,38
+Denmark,DNK,2023,46
+Denmark,DNK,2024,56
+Denmark,DNK,2025,71
+Estonia,EST,2015,0.16
+Estonia,EST,2016,0.15
+Estonia,EST,2017,0.18
+Estonia,EST,2018,0.46
+Estonia,EST,2019,0.36
+Estonia,EST,2020,1.8
+Estonia,EST,2021,3.2
+Estonia,EST,2022,5.4
+Estonia,EST,2023,8.8
+Estonia,EST,2024,10
+Estonia,EST,2025,17
+Europe,OWID_EUR,2010,0.012
+Europe,OWID_EUR,2011,0.074
+Europe,OWID_EUR,2012,0.2
+Europe,OWID_EUR,2013,0.43
+Europe,OWID_EUR,2014,0.68
+Europe,OWID_EUR,2015,1
+Europe,OWID_EUR,2016,1.4
+Europe,OWID_EUR,2017,1.8
+Europe,OWID_EUR,2018,2.3
+Europe,OWID_EUR,2019,3.4
+Europe,OWID_EUR,2020,10
+Europe,OWID_EUR,2021,17
+Europe,OWID_EUR,2022,21
+Europe,OWID_EUR,2023,22
+Europe,OWID_EUR,2024,21
+Europe,OWID_EUR,2025,28
+European Union (27),OWID_EU27,2010,0.01
+European Union (27),OWID_EU27,2011,0.066
+European Union (27),OWID_EU27,2012,0.19
+European Union (27),OWID_EU27,2013,0.47
+European Union (27),OWID_EU27,2014,0.56
+European Union (27),OWID_EU27,2015,0.82
+European Union (27),OWID_EU27,2016,1.1
+European Union (27),OWID_EU27,2017,1.5
+European Union (27),OWID_EU27,2018,1.9
+European Union (27),OWID_EU27,2019,2.9
+European Union (27),OWID_EU27,2020,10
+European Union (27),OWID_EU27,2021,18
+European Union (27),OWID_EU27,2022,21
+European Union (27),OWID_EU27,2023,22
+European Union (27),OWID_EU27,2024,21
+European Union (27),OWID_EU27,2025,27
+Finland,FIN,2011,0.025
+Finland,FIN,2012,0.17
+Finland,FIN,2013,0.21
+Finland,FIN,2014,0.41
+Finland,FIN,2015,0.6
+Finland,FIN,2016,1.2
+Finland,FIN,2017,2.6
+Finland,FIN,2018,4.7
+Finland,FIN,2019,6.9
+Finland,FIN,2020,18
+Finland,FIN,2021,31
+Finland,FIN,2022,38
+Finland,FIN,2023,54
+Finland,FIN,2024,50
+Finland,FIN,2025,57
+France,FRA,2010,0.012
+France,FRA,2011,0.12
+France,FRA,2012,0.33
+France,FRA,2013,0.53
+France,FRA,2014,0.69
+France,FRA,2015,1.2
+France,FRA,2016,1.4
+France,FRA,2017,1.7
+France,FRA,2018,2
+France,FRA,2019,2.7
+France,FRA,2020,11
+France,FRA,2021,17
+France,FRA,2022,20
+France,FRA,2023,25
+France,FRA,2024,24
+France,FRA,2025,26
+Germany,DEU,2010,0.0049
+Germany,DEU,2011,0.052
+Germany,DEU,2012,0.11
+Germany,DEU,2013,0.23
+Germany,DEU,2014,0.45
+Germany,DEU,2015,0.73
+Germany,DEU,2016,0.74
+Germany,DEU,2017,1.6
+Germany,DEU,2018,2
+Germany,DEU,2019,3
+Germany,DEU,2020,14
+Germany,DEU,2021,26
+Germany,DEU,2022,31
+Germany,DEU,2023,24
+Germany,DEU,2024,20
+Germany,DEU,2025,30
+Greece,GRC,2013,0.0051
+Greece,GRC,2014,0.055
+Greece,GRC,2015,0.076
+Greece,GRC,2016,0.12
+Greece,GRC,2017,0.22
+Greece,GRC,2018,0.29
+Greece,GRC,2019,0.42
+Greece,GRC,2020,2.7
+Greece,GRC,2021,6.9
+Greece,GRC,2022,7.9
+Greece,GRC,2023,13
+Greece,GRC,2024,12
+Greece,GRC,2025,14
+Hungary,HUN,2015,0.17
+Hungary,HUN,2016,0.36
+Hungary,HUN,2017,1
+Hungary,HUN,2018,1.5
+Hungary,HUN,2019,1.9
+Hungary,HUN,2020,4.7
+Hungary,HUN,2021,7
+Hungary,HUN,2022,8.6
+Hungary,HUN,2023,11
+Hungary,HUN,2024,12
+Hungary,HUN,2025,14
+Iceland,ISL,2012,0.33
+Iceland,ISL,2013,1.4
+Iceland,ISL,2014,2.4
+Iceland,ISL,2015,3.9
+Iceland,ISL,2016,6.3
+Iceland,ISL,2017,14
+Iceland,ISL,2018,20
+Iceland,ISL,2019,26
+Iceland,ISL,2020,52
+Iceland,ISL,2021,70
+Iceland,ISL,2022,69
+Iceland,ISL,2023,71
+Iceland,ISL,2024,43
+Iceland,ISL,2025,62
+India,IND,2010,0.021
+India,IND,2011,0.057
+India,IND,2012,0.0073
+India,IND,2013,0.016
+India,IND,2014,0.038
+India,IND,2015,0.017
+India,IND,2016,0.026
+India,IND,2017,0.031
+India,IND,2018,0.03
+India,IND,2019,0.024
+India,IND,2020,0.12
+India,IND,2021,0.41
+India,IND,2022,1.4
+India,IND,2023,2.1
+India,IND,2024,2.1
+India,IND,2025,4
+Indonesia,IDN,2011,0.00034
+Indonesia,IDN,2013,0.00024
+Indonesia,IDN,2017,0.0032
+Indonesia,IDN,2018,0.00023
+Indonesia,IDN,2019,0.012
+Indonesia,IDN,2020,0.097
+Indonesia,IDN,2021,0.12
+Indonesia,IDN,2022,1.4
+Indonesia,IDN,2023,2.2
+Indonesia,IDN,2024,6.8
+Indonesia,IDN,2025,15
+Ireland,IRL,2015,0.47
+Ireland,IRL,2016,0.47
+Ireland,IRL,2017,0.72
+Ireland,IRL,2018,1.6
+Ireland,IRL,2019,4.1
+Ireland,IRL,2020,7.4
+Ireland,IRL,2021,16
+Ireland,IRL,2022,22
+Ireland,IRL,2023,27
+Ireland,IRL,2024,25
+Ireland,IRL,2025,34
+Israel,ISR,2011,0.0013
+Israel,ISR,2012,0.27
+Israel,ISR,2013,0.21
+Israel,ISR,2014,0.022
+Israel,ISR,2015,0.024
+Israel,ISR,2016,0.022
+Israel,ISR,2017,0.52
+Israel,ISR,2018,1.2
+Israel,ISR,2019,1.6
+Israel,ISR,2020,2.6
+Israel,ISR,2021,6.9
+Israel,ISR,2022,12
+Israel,ISR,2023,17
+Israel,ISR,2024,19
+Israel,ISR,2025,21
+Italy,ITA,2010,0.002
+Italy,ITA,2011,0.0065
+Italy,ITA,2012,0.033
+Italy,ITA,2013,0.08
+Italy,ITA,2014,0.1
+Italy,ITA,2015,0.14
+Italy,ITA,2016,0.15
+Italy,ITA,2017,0.25
+Italy,ITA,2018,0.5
+Italy,ITA,2019,0.88
+Italy,ITA,2020,4.2
+Italy,ITA,2021,9.1
+Italy,ITA,2022,8.5
+Italy,ITA,2023,9.2
+Italy,ITA,2024,7.5
+Italy,ITA,2025,13
+Japan,JPN,2010,0.058
+Japan,JPN,2011,0.31
+Japan,JPN,2012,0.53
+Japan,JPN,2013,0.63
+Japan,JPN,2014,0.69
+Japan,JPN,2015,0.58
+Japan,JPN,2016,0.6
+Japan,JPN,2017,1.2
+Japan,JPN,2018,1.1
+Japan,JPN,2019,0.9
+Japan,JPN,2020,0.77
+Japan,JPN,2021,1.2
+Japan,JPN,2022,2.8
+Japan,JPN,2023,3.5
+Japan,JPN,2024,2.8
+Japan,JPN,2025,3
+Jordan,JOR,2017,1.7
+Jordan,JOR,2018,1.4
+Jordan,JOR,2019,2.5
+Jordan,JOR,2020,2.4
+Jordan,JOR,2021,7.6
+Jordan,JOR,2022,7.2
+Jordan,JOR,2023,9.4
+Jordan,JOR,2024,21
+Jordan,JOR,2025,12
+Laos,LAO,2022,3.2
+Laos,LAO,2023,8.5
+Laos,LAO,2024,25
+Laos,LAO,2025,36
+Latvia,LVA,2015,0.19
+Latvia,LVA,2016,0.24
+Latvia,LVA,2017,0.24
+Latvia,LVA,2018,0.53
+Latvia,LVA,2019,0.54
+Latvia,LVA,2020,2.6
+Latvia,LVA,2021,3.9
+Latvia,LVA,2022,8.1
+Latvia,LVA,2023,11
+Latvia,LVA,2024,12
+Latvia,LVA,2025,19
+Lithuania,LTU,2015,0.22
+Lithuania,LTU,2016,0.32
+Lithuania,LTU,2017,0.2
+Lithuania,LTU,2019,0.35
+Lithuania,LTU,2020,1.1
+Lithuania,LTU,2021,5
+Lithuania,LTU,2022,7.9
+Lithuania,LTU,2023,11
+Lithuania,LTU,2024,12
+Lithuania,LTU,2025,18
+Luxembourg,LUX,2019,3.5
+Luxembourg,LUX,2020,11
+Luxembourg,LUX,2021,20
+Luxembourg,LUX,2022,24
+Luxembourg,LUX,2023,32
+Luxembourg,LUX,2024,36
+Luxembourg,LUX,2025,35
+Malaysia,MYS,2012,0.0018
+Malaysia,MYS,2013,0.00035
+Malaysia,MYS,2014,0.0025
+Malaysia,MYS,2015,0.0063
+Malaysia,MYS,2016,0.021
+Malaysia,MYS,2017,1.6
+Malaysia,MYS,2018,1.5
+Malaysia,MYS,2019,0.46
+Malaysia,MYS,2020,0.14
+Malaysia,MYS,2021,0.28
+Malaysia,MYS,2022,0.49
+Malaysia,MYS,2023,1.5
+Malaysia,MYS,2024,3.1
+Malaysia,MYS,2025,7
+Mexico,MEX,2011,0.0004
+Mexico,MEX,2012,0.01
+Mexico,MEX,2013,0.0013
+Mexico,MEX,2014,0.005
+Mexico,MEX,2015,0.0086
+Mexico,MEX,2016,0.056
+Mexico,MEX,2017,0.091
+Mexico,MEX,2018,0.15
+Mexico,MEX,2019,0.15
+Mexico,MEX,2020,0.49
+Mexico,MEX,2021,0.78
+Mexico,MEX,2022,0.96
+Mexico,MEX,2023,1.5
+Mexico,MEX,2024,2.2
+Mexico,MEX,2025,7
+Nepal,NPL,2021,9.9
+Nepal,NPL,2022,29
+Nepal,NPL,2023,64
+Nepal,NPL,2024,74
+Nepal,NPL,2025,68
+Netherlands,NLD,2010,0.025
+Netherlands,NLD,2011,0.16
+Netherlands,NLD,2012,1
+Netherlands,NLD,2013,5.5
+Netherlands,NLD,2014,3.9
+Netherlands,NLD,2015,3.5
+Netherlands,NLD,2016,11
+Netherlands,NLD,2017,6.4
+Netherlands,NLD,2018,6.2
+Netherlands,NLD,2019,15
+Netherlands,NLD,2020,25
+Netherlands,NLD,2021,29
+Netherlands,NLD,2022,35
+Netherlands,NLD,2023,44
+Netherlands,NLD,2024,48
+Netherlands,NLD,2025,58
+New Zealand,NZL,2010,0.015
+New Zealand,NZL,2011,0.022
+New Zealand,NZL,2012,0.033
+New Zealand,NZL,2013,0.041
+New Zealand,NZL,2014,0.34
+New Zealand,NZL,2015,0.6
+New Zealand,NZL,2016,1.7
+New Zealand,NZL,2017,3.4
+New Zealand,NZL,2018,5
+New Zealand,NZL,2019,6.8
+New Zealand,NZL,2020,6.6
+New Zealand,NZL,2021,9.4
+New Zealand,NZL,2022,24
+New Zealand,NZL,2023,27
+New Zealand,NZL,2024,11
+New Zealand,NZL,2025,12
+Norway,NOR,2010,0.28
+Norway,NOR,2011,1.4
+Norway,NOR,2012,3.1
+Norway,NOR,2013,5.8
+Norway,NOR,2014,15
+Norway,NOR,2015,22
+Norway,NOR,2016,29
+Norway,NOR,2017,39
+Norway,NOR,2018,49
+Norway,NOR,2019,56
+Norway,NOR,2020,75
+Norway,NOR,2021,86
+Norway,NOR,2022,89
+Norway,NOR,2023,90
+Norway,NOR,2024,92
+Norway,NOR,2025,97
+Philippines,PHL,2017,0.0057
+Philippines,PHL,2018,0.0016
+Philippines,PHL,2019,0.16
+Philippines,PHL,2020,0.2
+Philippines,PHL,2021,0.17
+Philippines,PHL,2022,0.15
+Philippines,PHL,2023,0.16
+Philippines,PHL,2024,1.3
+Philippines,PHL,2025,10
+Poland,POL,2010,0.0048
+Poland,POL,2011,0.014
+Poland,POL,2012,0.018
+Poland,POL,2013,0.013
+Poland,POL,2014,0.062
+Poland,POL,2015,0.061
+Poland,POL,2016,0.12
+Poland,POL,2017,0.22
+Poland,POL,2018,0.26
+Poland,POL,2019,0.48
+Poland,POL,2020,1.9
+Poland,POL,2021,3.6
+Poland,POL,2022,5.9
+Poland,POL,2023,6.4
+Poland,POL,2024,6.7
+Poland,POL,2025,14
+Portugal,PRT,2010,0.0058
+Portugal,PRT,2011,0.11
+Portugal,PRT,2012,0.088
+Portugal,PRT,2013,0.17
+Portugal,PRT,2014,0.2
+Portugal,PRT,2015,0.62
+Portugal,PRT,2016,0.87
+Portugal,PRT,2017,1.9
+Portugal,PRT,2018,3.6
+Portugal,PRT,2019,5.6
+Portugal,PRT,2020,13
+Portugal,PRT,2021,20
+Portugal,PRT,2022,22
+Portugal,PRT,2023,32
+Portugal,PRT,2024,33
+Portugal,PRT,2025,38
+Rest of World,,2010,0.003735474
+Rest of World,,2011,0.002624585
+Rest of World,,2012,0.009032399
+Rest of World,,2014,0.01811767
+Rest of World,,2016,0.04961722
+Rest of World,,2017,0.1180452
+Rest of World,,2018,0.2644452
+Rest of World,,2020,0.09722563
+Rest of World,,2021,1.532554
+Rest of World,,2023,0.4448116
+Rest of World,,2024,5.214191
+Rest of World,,2025,5.525748
+Romania,ROU,2015,0.03
+Romania,ROU,2016,0.08
+Romania,ROU,2017,0.18
+Romania,ROU,2018,0.46
+Romania,ROU,2019,0.93
+Romania,ROU,2020,3.1
+Romania,ROU,2021,5.2
+Romania,ROU,2022,9
+Romania,ROU,2023,11
+Romania,ROU,2024,6.5
+Romania,ROU,2025,5.6
+Russia,RUS,2011,0.0015
+Russia,RUS,2012,0.0017
+Russia,RUS,2015,0.01
+Russia,RUS,2016,0.026
+Russia,RUS,2017,0.0093
+Russia,RUS,2018,0.067
+Russia,RUS,2019,0.073
+Russia,RUS,2020,0.1
+Russia,RUS,2021,0.13
+Russia,RUS,2022,0.13
+Russia,RUS,2023,0.5
+Russia,RUS,2024,2.5
+Russia,RUS,2025,2
+Seychelles,SYC,2015,0.15
+Seychelles,SYC,2016,0.63
+Seychelles,SYC,2017,2
+Seychelles,SYC,2018,2.3
+Seychelles,SYC,2019,2.6
+Seychelles,SYC,2020,3.3
+Seychelles,SYC,2021,4.2
+Seychelles,SYC,2022,1.7
+Seychelles,SYC,2023,5
+Singapore,SGP,2016,0.0023
+Singapore,SGP,2017,0.78
+Singapore,SGP,2018,1.2
+Singapore,SGP,2019,2
+Singapore,SGP,2020,2.6
+Singapore,SGP,2021,8.1
+Singapore,SGP,2022,15
+Singapore,SGP,2023,21
+Singapore,SGP,2024,34
+Singapore,SGP,2025,37
+Slovakia,SVK,2015,0.07
+Slovakia,SVK,2016,0.07
+Slovakia,SVK,2017,0.22
+Slovakia,SVK,2018,0.3
+Slovakia,SVK,2019,0.36
+Slovakia,SVK,2020,2.3
+Slovakia,SVK,2021,3
+Slovakia,SVK,2022,3.7
+Slovakia,SVK,2023,6.1
+Slovakia,SVK,2024,4.8
+Slovakia,SVK,2025,9.1
+Slovenia,SVN,2016,0.32
+Slovenia,SVN,2017,0.64
+Slovenia,SVN,2018,0.91
+Slovenia,SVN,2019,0.29
+Slovenia,SVN,2020,3.1
+Slovenia,SVN,2021,3.8
+Slovenia,SVN,2022,6.2
+Slovenia,SVN,2023,11
+Slovenia,SVN,2024,8.1
+Slovenia,SVN,2025,15
+South Africa,ZAF,2013,0.0075
+South Africa,ZAF,2014,0.0034
+South Africa,ZAF,2015,0.058
+South Africa,ZAF,2016,0.1
+South Africa,ZAF,2017,0.053
+South Africa,ZAF,2018,0.041
+South Africa,ZAF,2019,0.064
+South Africa,ZAF,2020,0.098
+South Africa,ZAF,2021,0.088
+South Africa,ZAF,2022,0.17
+South Africa,ZAF,2023,0.3
+South Africa,ZAF,2024,0.54
+South Africa,ZAF,2025,0.88
+South Korea,KOR,2010,0.005
+South Korea,KOR,2011,0.023
+South Korea,KOR,2012,0.041
+South Korea,KOR,2013,0.048
+South Korea,KOR,2014,0.092
+South Korea,KOR,2015,0.22
+South Korea,KOR,2016,0.33
+South Korea,KOR,2017,0.96
+South Korea,KOR,2018,3.9
+South Korea,KOR,2019,2.4
+South Korea,KOR,2020,2.5
+South Korea,KOR,2021,6.3
+South Korea,KOR,2022,9.6
+South Korea,KOR,2023,8.9
+South Korea,KOR,2024,7.4
+South Korea,KOR,2025,11
+Spain,ESP,2010,0.0077
+Spain,ESP,2011,0.049
+Spain,ESP,2012,0.076
+Spain,ESP,2013,0.12
+Spain,ESP,2014,0.19
+Spain,ESP,2015,0.2
+Spain,ESP,2016,0.29
+Spain,ESP,2017,0.56
+Spain,ESP,2018,0.81
+Spain,ESP,2019,1.3
+Spain,ESP,2020,4.5
+Spain,ESP,2021,7.3
+Spain,ESP,2022,8.9
+Spain,ESP,2023,12
+Spain,ESP,2024,11
+Spain,ESP,2025,20
+Sweden,SWE,2010,0.0013
+Sweden,SWE,2011,0.054
+Sweden,SWE,2012,0.31
+Sweden,SWE,2013,0.53
+Sweden,SWE,2014,1.4
+Sweden,SWE,2015,2.4
+Sweden,SWE,2016,3.4
+Sweden,SWE,2017,5.1
+Sweden,SWE,2018,7.6
+Sweden,SWE,2019,11
+Sweden,SWE,2020,32
+Sweden,SWE,2021,43
+Sweden,SWE,2022,54
+Sweden,SWE,2023,60
+Sweden,SWE,2024,58
+Sweden,SWE,2025,61
+Switzerland,CHE,2011,0.14
+Switzerland,CHE,2012,0.23
+Switzerland,CHE,2013,0.42
+Switzerland,CHE,2014,0.94
+Switzerland,CHE,2015,1.7
+Switzerland,CHE,2016,1.9
+Switzerland,CHE,2017,2.7
+Switzerland,CHE,2018,3.2
+Switzerland,CHE,2019,5.6
+Switzerland,CHE,2020,14
+Switzerland,CHE,2021,23
+Switzerland,CHE,2022,26
+Switzerland,CHE,2023,30
+Switzerland,CHE,2024,28
+Switzerland,CHE,2025,34
+Thailand,THA,2010,0.00013
+Thailand,THA,2011,0.001
+Thailand,THA,2012,0.00055
+Thailand,THA,2013,0.001
+Thailand,THA,2014,0.0076
+Thailand,THA,2015,0.0046
+Thailand,THA,2016,0.0048
+Thailand,THA,2017,0.018
+Thailand,THA,2018,0.87
+Thailand,THA,2019,1
+Thailand,THA,2020,1.1
+Thailand,THA,2021,1.2
+Thailand,THA,2022,2.3
+Thailand,THA,2023,11
+Thailand,THA,2024,13
+Thailand,THA,2025,23
+Turkey,TUR,2012,0.016
+Turkey,TUR,2013,0.00015
+Turkey,TUR,2014,0.012
+Turkey,TUR,2015,0.03
+Turkey,TUR,2016,0.017
+Turkey,TUR,2017,0.015
+Turkey,TUR,2018,0.045
+Turkey,TUR,2019,0.084
+Turkey,TUR,2020,0.21
+Turkey,TUR,2021,0.63
+Turkey,TUR,2022,1.3
+Turkey,TUR,2023,7.2
+Turkey,TUR,2024,11
+Turkey,TUR,2025,22
+United Arab Emirates,ARE,2012,0.065
+United Arab Emirates,ARE,2013,0.037
+United Arab Emirates,ARE,2014,0.01
+United Arab Emirates,ARE,2015,0.015
+United Arab Emirates,ARE,2016,0.013
+United Arab Emirates,ARE,2017,0.18
+United Arab Emirates,ARE,2018,0.12
+United Arab Emirates,ARE,2019,0.097
+United Arab Emirates,ARE,2020,0.44
+United Arab Emirates,ARE,2021,2.5
+United Arab Emirates,ARE,2022,5.8
+United Arab Emirates,ARE,2023,6.2
+United Arab Emirates,ARE,2024,6.5
+United Arab Emirates,ARE,2025,9
+United Kingdom,GBR,2010,0.013
+United Kingdom,GBR,2011,0.062
+United Kingdom,GBR,2012,0.13
+United Kingdom,GBR,2013,0.16
+United Kingdom,GBR,2014,0.59
+United Kingdom,GBR,2015,1.1
+United Kingdom,GBR,2016,1.4
+United Kingdom,GBR,2017,1.9
+United Kingdom,GBR,2018,2.6
+United Kingdom,GBR,2019,3.2
+United Kingdom,GBR,2020,11
+United Kingdom,GBR,2021,18
+United Kingdom,GBR,2022,22
+United Kingdom,GBR,2023,23
+United Kingdom,GBR,2024,27
+United Kingdom,GBR,2025,35
+United States,USA,2010,0.012
+United States,USA,2011,0.15
+United States,USA,2012,0.42
+United States,USA,2013,0.71
+United States,USA,2014,0.77
+United States,USA,2015,0.7
+United States,USA,2016,0.99
+United States,USA,2017,1.3
+United States,USA,2018,2.3
+United States,USA,2019,2.1
+United States,USA,2020,2.3
+United States,USA,2021,4.7
+United States,USA,2022,7.7
+United States,USA,2023,9.7
+United States,USA,2024,10
+United States,USA,2025,10
+Uzbekistan,UZB,2023,2.2
+Uzbekistan,UZB,2024,5
+Uzbekistan,UZB,2025,6
+Vietnam,VNM,2018,0.0016
+Vietnam,VNM,2021,0.042
+Vietnam,VNM,2022,2.6
+Vietnam,VNM,2023,10
+Vietnam,VNM,2024,19
+Vietnam,VNM,2025,40
+World,OWID_WRL,2010,0.012
+World,OWID_WRL,2011,0.072
+World,OWID_WRL,2012,0.17
+World,OWID_WRL,2013,0.29
+World,OWID_WRL,2014,0.44
+World,OWID_WRL,2015,0.68
+World,OWID_WRL,2016,0.95
+World,OWID_WRL,2017,1.4
+World,OWID_WRL,2018,2.4
+World,OWID_WRL,2019,2.7
+World,OWID_WRL,2020,4.4
+World,OWID_WRL,2021,9.3
+World,OWID_WRL,2022,15
+World,OWID_WRL,2023,18
+World,OWID_WRL,2024,21
+World,OWID_WRL,2025,25
